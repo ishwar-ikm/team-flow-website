@@ -35,6 +35,10 @@ document.querySelector(".jsselect").addEventListener("click", function () {
         document.querySelector(".emailText").value = "";
         alert("Email registered!");
     }
+    
+    else if(email === ""){
+        alert("Field can not be empty")
+    }
 
     else{
         alert("Invalid Email please try again");
