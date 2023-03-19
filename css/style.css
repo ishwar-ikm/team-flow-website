@@ -1,0 +1,458 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Dancing+Script&family=Fraunces:opsz@9..144&family=Ibarra+Real+Nova&family=Inter&family=Josefin+Sans&family=Merriweather&family=Montserrat&family=Sacramento&family=Shadows+Into+Light&family=Ubuntu&display=swap');
+
+h1,h2 {
+    font-family: 'Inter', sans-serif;
+    color: #35414b !important;
+}
+
+h3,h4 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #35414b !important;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #495561;
+}
+
+.icon {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h5 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+}
+
+.per{
+    display: inline-block;
+    background-color: #81c43b;
+    padding: 4px 9px;
+    border-radius: 20px;
+    position: relative;
+    left: -7px;
+}
+
+.discount{
+    display: inline-block;
+    background-color: #f2f9eb;
+    padding: 4px 9px;
+    border-radius: 20px;
+    position: relative;
+    left: 41%;
+    margin-bottom: 30px;
+}
+
+.top-cont {
+    position: relative;
+    overflow: hidden;
+}
+
+.top-cont::before {
+    content: '';
+    position: absolute;
+    left: -15%;
+    width: 130%;
+    height: 110vh;
+    background-color: #fbfafe;
+    border-bottom: 1px solid #dedce3;
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    z-index: -1;
+}
+
+
+.icon {
+    margin-left: 110px;
+}
+
+.navbar-ul {
+    margin: auto;
+}
+
+.nav-btn {
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color: #774aff;
+    font-size: 16px;
+    background: #ece5ff;
+    padding: 9px 19px 9px 19px;
+    text-decoration: none;
+    border: 0;
+    margin-right: 140px;
+}
+
+.nav-btn:hover {
+    background: #c1e1f5;
+    text-decoration: none;
+}
+
+.benifit-btn{
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color: #774aff;
+    font-size: 16px;
+    background: #ece5ff;
+    padding: 9px 19px 9px 19px;
+    text-decoration: none;
+    border: 0;
+    font-weight: bold;
+    display: none;
+}
+
+.benifit-btn:hover{
+    background: #c1e1f5;
+    text-decoration: none;
+}
+
+.nav-btnl {
+    background-color: #fbfafe;
+    border: 0;
+    margin-right: 20px;
+}
+
+.nav-btnl:hover {
+    color: #343638;
+    text-decoration: none;
+}
+
+
+#first {
+    padding-top: 100px;
+    position: relative;
+}
+
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.heading h1 {
+    font-size: 4rem;
+    padding-bottom: 20px;
+}
+
+.headtext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.in-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.in-text input {
+    padding: 10px 20px;
+    width: 20%;
+    background-color: white;
+    border: 0;
+    box-shadow: 0 0 1.5px 1.5px rgba(0, 0, 0, 0.1);
+}
+
+.in-text button {
+    text-align: center;
+}
+
+.in-text input::placeholder {
+    text-align: left;
+    padding-left: 5px;
+    opacity: 0.5;
+}
+
+.input-btn {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    background: #794cff;
+    padding: 11px 40px;
+    text-decoration: none;
+    border: 0;
+}
+
+.headimage {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.shadow {
+
+    box-shadow: rgba(100, 100, 111, 0.2) 5px 7px 29px 0px;
+}
+
+#partner {
+    padding-top: 100px;
+}
+
+#partner p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.company {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.company img {
+    padding: 0 70px;
+}
+
+
+
+/************* about ****************/
+#about {
+    background-color: #fbfafe;
+    margin-top: 7%;
+    border-bottom: 1px solid #dedce3;
+    border-top: 1px solid #dedce3;
+}
+
+.actn {
+    padding: 5% 0;
+}
+
+.atxt {
+    padding-left: 12% !important;
+}
+
+.about-text {
+    padding: 15px;
+    margin: 15px 10px;
+}
+
+.topt {
+    background-color: #f6f3fc;
+    width: 70%;
+    border-left: 8px solid #794cff;
+}
+
+.bor {
+    width: 70%;
+    border-bottom: 2px solid #ede7f8;
+}
+
+
+
+
+
+
+
+
+
+/********* Benifits *************/
+
+#benifits {
+    position: relative;
+    padding: 10% 5%;
+}
+
+#benifits h2 {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10%;
+}
+
+.col-lg-4 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.col-lg-4 img {
+    padding-bottom: 15px;
+}
+
+
+/********* get started **********/
+#get-started {
+    background-color: #fbfafe;
+    padding: 7% 7%;
+    border-bottom: 1px solid #dedce3;
+    border-top: 1px solid #dedce3;
+}
+
+
+
+
+/*********** Testimonial ******/
+
+#testimonial {
+    padding: 7% 1%;
+}
+
+#testimonial h2 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+
+
+/******* download ******/
+
+#download {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+}
+
+.content {
+    background-color: #796eff;
+    border-radius: 15px;
+    width: 80%;
+    height: 30vh;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.dhead {
+    color: white !important;
+}
+
+.downimg {
+    border-radius: 5px;
+}
+
+
+
+/************* Footer **************/
+.footer {
+    background-color: #1d2830;
+    margin-top: 7%;
+}
+
+.fctn {
+    color: #dddfe0;
+    padding-top: 4%;
+}
+
+
+
+.foot-list {
+    text-decoration: none;
+    list-style: none;
+}
+
+.foot-list li a {
+    text-decoration: none;
+    color: #dddfe0;
+}
+
+.foot-list li a:hover {
+    color: #a4a6a6;
+}
+
+.foot-list li {
+    color: #dddfe0;
+    padding: 0 2px 5px 2px;
+}
+
+hr {
+    background-color: #dddfe0;
+    height: 2px;
+    border: none;
+    width: 100%;
+    margin-top: 3% !important;
+    margin-bottom: 3% !important;
+}
+
+.rights {
+    color: #dddfe0;
+    padding-bottom: 2%;
+}
+
+.right-text {
+    position: relative;
+    left: 12%;
+    display: inline-block;
+}
+
+.right-text p{
+    color: #dddfe0;
+}
+
+.fimg {
+    margin: 5px 2px;
+    border-radius: 10px;
+    border: 1px solid #dddfe0;
+}
+
+.fl {
+    position: relative;
+    top: -14px;
+}
+
+
+.social-icon {
+    list-style: none;
+}
+
+.social-icon li a {
+    text-decoration: none;
+    color: #dddfe0;
+    font-size: 1.25rem;
+}
+
+.social-icon li a:hover {
+    color: #beab99;
+}
+
+.social {
+    display: inline-block;
+    position: absolute;
+    right: 7%;
+}
+
+.social-icon li {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 50%;
+    background-color: #293741;
+    margin: auto 8px;
+}
+
+.fcont {
+    padding-top: 4%;
+}
+
+
+
+.phoneF{
+    cursor: default;
+}
+.phoneF:hover{
+    color: #dddfe0 !important;
+}
+
+.pClass{
+    visibility: hidden;
+}

@@ -1,0 +1,240 @@
+#first{
+    position: relative;
+}
+
+.per{
+    display: none !important;
+}
+
+.discount{
+    font-size: 2rem;
+    left: 35% !important;
+}
+.in-text input{
+    display: block;
+    width: 50% !important;
+    padding: 10px 10px !important;
+}
+
+.in-text button{
+    position: absolute;
+    top: 505px;
+    padding: 5px 19.6%;
+    font-size: 1.5rem;
+    border-radius: 7px;
+}
+
+.headtext p{
+    font-size: 1.4rem;
+}
+
+.headimage{
+    margin-top: 77px;
+}
+
+.slack{
+    position: relative;
+    left: 1000px;
+}
+
+.company{
+    position: relative;
+    left: 90px;
+}
+
+.company img{
+    padding: 30px !important;
+}
+
+#partner p{
+    font-size: 1.8rem;
+}
+
+
+.col-lg-6 img{
+    margin-bottom: 50px;
+}
+
+.actn{
+    text-align: center;
+}
+
+
+.pt{
+    margin-right: 170px !important;
+}
+
+.topt{
+    border-left: none !important;
+    border-bottom: 7px solid #794cff;
+    width: 100% !important;
+}
+
+.bor{
+    width: 100% !important;
+}
+
+.pt{
+    width: 100% !important;
+}
+
+
+#benifits{
+    text-align: center;
+}
+
+.row{
+    padding: 5px !important;
+}
+
+#benifits h2{
+    font-size: 2.5rem;
+}
+
+.ptxt h4{
+    font-size: 2rem;
+}
+
+.ptxt p{
+    size: 7rem;
+}
+
+
+#get-started{
+    text-align: center;
+    position: relative;
+    padding: 7% 7% 35% 7% !important;
+}
+
+
+.stxt{
+    position: absolute;
+    top: 61%;
+    font-size: 1.5rem;
+}
+
+.stxt h3{
+    font-size: 3rem;
+}
+
+.pibtn{
+    padding: 12px 86px !important;
+    font-size: 1.8rem !important;
+}
+
+
+
+
+#download{
+    text-align: center;
+}
+
+
+.content{
+    width: 100% !important;
+    border-radius: 0 !important;
+    height: 17vh !important;
+    padding-top: 20px !important;       
+}
+
+.downimg{
+    margin: 5px !important;
+    border-radius: 15px !important;
+    padding: 7px;
+}
+
+
+
+.fcont{
+    font-size: 2rem;
+    padding: 39px 33px !important;
+}
+
+.foot-list{
+    padding-bottom: 10px;
+}
+
+
+.actn .atxt{
+    padding-left: 0 !important;
+    font-size: 1.4rem;
+}
+
+.about-text h5{
+    font-size: 2rem;
+}
+
+.aimg{
+    padding-top: 30px;
+}
+
+
+.benifit-btn{
+    display: inline-block !important;
+    padding: 27px 53px 26px 66px !important;
+    font-size: 29px !important;
+    position: relative;
+}
+
+.hideClass{
+    display: none !important;
+}
+
+.fcont{
+    position: relative;
+    font-size: 2.6rem;
+}
+
+.social{
+    visibility: hidden;
+}
+
+.right-text{
+    left: 7% !important;
+}
+
+.phoneF{
+    cursor: pointer !important;
+}
+
+.fimg{
+    width: 25%;
+}
+
+.pClass{
+    visibility: visible !important;
+    display: inline-block;
+}
+
+.topArrow{
+    position: relative;
+    left: 62%;
+    top: 5px;
+}
+.topArrow1{
+    position: relative;
+    left: 62%;
+    top: 5px;
+}
+
+.middleArrow{
+    position: relative;
+    left: 64.6%;
+    top: 5px;
+}
+.middleArrow1{
+    position: relative;
+    left: 64.6%;
+    top: 5px;
+}
+
+.bottomArrow{
+    position: relative;
+    left: 70.7%;
+    top: 5px;
+}
+.bottomArrow1{
+    position: relative;
+    left: 70.7%;
+    top: 5px;
+}
