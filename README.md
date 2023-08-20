@@ -51,4 +51,4 @@ We appreciate contributions to enhance the Team Flow website. To contribute:
 
 Thank you for exploring the Team Flow Website repository. We hope this project serves as a valuable demonstration of the Team Flow platform. If you have any questions or suggestions, please feel free to contact us.
 
-For more information, visit the [live website]([https://www.teamflow.com](https://ishwar-ikm.github.io/team-flow-website/)https://ishwar-ikm.github.io/team-flow-website/).
+For more information, visit the [live website](https://www.teamflow.com](https://ishwar-ikm.github.io/team-flow-website/)https://ishwar-ikm.github.io/team-flow-website/).
