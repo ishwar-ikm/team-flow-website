@@ -17,7 +17,7 @@ The Team Flow website is designed to provide information about the Team Flow pla
 
 ## Features
 
-- **Responsive Design**: The website is optimized for various devices, ensuring a seamless browsing experience.
+- **Responsive Design**: The website is optimized for pc and mobile, ensuring a seamless browsing experience.
 - **Clear Navigation**: The top navigation bar allows users to easily access different sections of the website.
 - **Engaging Content**: Clear headings, concise content, and visual elements effectively communicate the platform's features.
 - **Testimonials**: Real customer testimonials are presented in an interactive slider to build trust and credibility.
