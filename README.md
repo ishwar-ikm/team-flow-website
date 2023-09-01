@@ -13,7 +13,7 @@ Welcome to the Team Flow Website GitHub repository! This repository contains the
 
 ## Introduction
 
-The Team Flow website is designed to provide information about the Team Flow platform, focusing on enhancing collaboration, communication, and team performance. The website includes sections that highlight the platform's capabilities, customer testimonials, and more.
+This is a Team Flow website is designed. The website includes sections that highlight the platform's capabilities, customer testimonials, and more.
 
 ## Features
 
