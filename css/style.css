@@ -271,8 +271,8 @@ body{
     padding: 10% 5%;
 }
 
-#benifits h2 {
-    text-align: center !important;
+.benefit-title {
+    text-align: center;
 }
 
 .row {
