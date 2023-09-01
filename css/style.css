@@ -3,7 +3,6 @@
 h1,h2 {
     font-family: 'Inter', sans-serif;
     color: #35414b !important;
-    text-align: center;
 }
 
 h3,h4 {
@@ -273,7 +272,7 @@ body{
 }
 
 #benifits h2 {
-    text-align: center;
+    text-align: center !important;
 }
 
 .row {
